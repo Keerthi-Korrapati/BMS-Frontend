@@ -1,0 +1,67 @@
+.bg-dark {
+    background-color: #9c27b0 !important;
+}
+
+.Home-btn{
+    background:none;
+    border:none;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    padding: 8px;
+}
+
+.All-books-btn{
+    background: none;
+    border:none;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.logout-btn{
+    background: none;
+    border:none;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    width: 2439%;
+
+}
+
+.btn{
+    background-color: #9c27b0;
+    color: #fff;
+}
+/* Navbar.css */
+
+.book-logo{
+    width: 30px;
+  height: 32px;
+  margin: 7px auto 10px;
+  display: block;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+}
+
+/* Add space between the navbar buttons */
+.navbar-brand {
+    padding: 0.1rem; 
+}
+
+.navbar-brand1 {
+    color: #fff;
+    padding: 10px 15px;
+    font-size: 18px; 
+  }
+
+  .navbar-brand1:hover {
+    text-decoration: dashed;
+    color: rgb(179, 168, 168);
+  }
+  
+a.nav-link {
+    margin-left: 831px;
+    
+} 

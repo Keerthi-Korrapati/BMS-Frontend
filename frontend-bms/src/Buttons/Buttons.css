@@ -1,0 +1,51 @@
+/*.backgroundImg43{
+    background: linear-gradient(rgba(209, 25, 191, 0.85), rgba(213, 149, 198, 0.85)), url("../Images/bookStore.avif") center/cover no-repeat;
+        color: #fff;
+        padding: 40px 80px;
+}*/
+.center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.bodybuttons {
+    text-align: center;
+    padding-top: 200px;
+}
+
+.button1 {
+    background-color: purple;
+    border-radius: 10PX;
+    color: white;
+    padding: 15px 53px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.button2 {
+    background-color: purple;
+    border-radius: 10PX;
+    color: white;
+    padding: 15px 53px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.backgroundImg43{
+    background:  url("https://i.gifer.com/3mkf.gif") center/cover no-repeat; 
+       color: #fff;
+       padding: 40px 80px;
+       height: 600px;
+} 
